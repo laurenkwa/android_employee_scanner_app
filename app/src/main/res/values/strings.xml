@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Employee Scanner</string>
+    <string name="search">Search for Employee</string>
+    <string name="scan">Scan Employee ID</string>
+    <string name="selectDateLabel">Select a Date to View Time Record</string>
+    <string name="dateToButton">Select To Date</string>
+    <string name="dateFromButton">Select From Date</string>
+    <string name="getTimeRecords">Get Time Record</string>
+</resources>
